@@ -1,1 +1,14 @@
-hhh
+Calculator CodeAlpha Project.
+This is a simple yet functional Calculator built using HTML, CSS and JavaScript. It provides a clean and user-friendly interface for performing basic arithmetic operations such as addition, subtraction,
+multiplication, and division.
+
+Features:
+  ->Intuitive and responsive design.
+  ->Supports basic arithmetic operations(addition, subtraction, multiplication, and division)
+  ->Real-time display of input and results.
+  ->Clear button to reset calculations.
+  ->Interactive button effects for better user experience.
+
+This project was developed as part of the CodeAlpha Internship Program to enhance front-end development skills and improve UI/UX design.
+
+  
